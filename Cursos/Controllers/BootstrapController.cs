@@ -22,5 +22,25 @@ namespace Cursos.Controllers
     {
       return View();
     }
+
+    public ActionResult Formulario()
+    {
+      return View();
+    }
+
+    public ActionResult Botoes()
+    {
+      return View();
+    }
+
+    public ActionResult Tabela()
+    {
+      return View();
+    }
+
+    public ActionResult Imagens()
+    {
+      return View();
+    }
   }
 }

@@ -229,6 +229,8 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="images\uvas.png" />
+    <Content Include="images\uvas200.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -279,6 +281,10 @@
     <Content Include="Views\Bootstrap\Grid.cshtml" />
     <Content Include="Views\Bootstrap\Navegacao.cshtml" />
     <Content Include="Views\Bootstrap\Index.cshtml" />
+    <Content Include="Views\Bootstrap\Tabela.cshtml" />
+    <Content Include="Views\Bootstrap\Botoes.cshtml" />
+    <Content Include="Views\Bootstrap\Formulario.cshtml" />
+    <Content Include="Views\Bootstrap\Imagens.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
