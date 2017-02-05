@@ -231,6 +231,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="images\EstruturaPagina.png" />
     <Content Include="images\uvas.png" />
     <Content Include="images\uvas200.png" />
     <Content Include="Scripts\bootstrap.js" />
