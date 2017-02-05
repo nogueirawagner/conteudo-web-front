@@ -6,11 +6,7 @@ using System.Web.Mvc;
 
 namespace Cursos.Controllers
 {
-  public class HomeController : Controller
+  public class JavaScriptController : Controller
   {
-    public ActionResult Index()
-    {
-      return View();
-    }
   }
 }
