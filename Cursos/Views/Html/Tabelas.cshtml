@@ -1,7 +1,52 @@
-﻿
-@{
-    ViewBag.Title = "Tabelas";
-}
+﻿<h4>Para criar uma estrutura de tabela deve seguir algumas etapas:</h4><br/>
+<ol>
+  <li>
+    Criar a tabela utilizando a tag <strong>table</strong>
+  </li>
+  <li>
+    Criar as linhas da tabela com a tag <strong>tr</strong>, que são as <i>table row</i>
+  </li>
+  <li>
+    Criar as células da tabela, que serão onde os dados da tabela irão ficar. Para isso utilizamos a tag <strong>td</strong>, que são as <i>table data</i>
+  </li>
+</ol>
 
-<h2>Tabelas</h2>
 
+<table border="1" width="50%">
+
+  <tr>
+    <th>Código</th>
+    <th>Produto</th>
+    <th>Preco</th>
+  </tr>
+
+  <tr>
+    <td>016564545</td>
+    <td>XOKAD</td>
+    <td>R$ 44</td>
+  </tr>
+
+  <tr>
+    <td>016564545</td>
+    <td>XOKADAD</td>
+    <td>R$ 44</td>
+  </tr>
+
+  <tr>
+    <td>016564545</td>
+    <td>XOKAdDDD</td>
+    <td>R$ 44</td>
+  </tr>
+  <tr>
+    <td colspan="2">Total</td>
+    <td>211</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Desconto</td>
+    <td>Cupom1: -R$ 10</td>
+  </tr>
+  <tr>
+    <td>Cupom2: -R$ 100</td>
+  </tr>
+
+</table>
