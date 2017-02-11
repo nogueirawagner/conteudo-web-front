@@ -42,5 +42,30 @@ namespace Cursos.Controllers
     {
       return View();
     }
+
+    public ActionResult Icones()
+    {
+      return View();
+    }
+
+    public ActionResult Modal()
+    {
+      return View();
+    }
+
+    public ActionResult Alert()
+    {
+      return View();
+    }
+
+    public ActionResult Tooltip()
+    {
+      return View();
+    }
+
+    public ActionResult Tabs()
+    {
+      return View();
+    }
   }
 }
