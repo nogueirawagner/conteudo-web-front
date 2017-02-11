@@ -68,6 +68,11 @@ namespace Cursos.Controllers
       return View();
     }
 
+    public ActionResult Link()
+    {
+      return View();
+    }
+
 
   }
 }
