@@ -201,6 +201,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\HtmlController.cs" />
     <Compile Include="Controllers\JavaScriptController.cs" />
+    <Compile Include="Controllers\SpotifyController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -229,6 +230,20 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="images\EstruturaPagina.png" />
+    <Content Include="images\spotify\capa.png" />
+    <Content Include="images\spotify\facebook.png" />
+    <Content Include="images\spotify\favicon.png" />
+    <Content Include="images\spotify\img1.jpg" />
+    <Content Include="images\spotify\img2.jpg" />
+    <Content Include="images\spotify\img3.jpg" />
+    <Content Include="images\spotify\img4.jpg" />
+    <Content Include="images\spotify\instagram.png" />
+    <Content Include="images\spotify\iphone1.png" />
+    <Content Include="images\spotify\iphone2.png" />
+    <Content Include="images\spotify\iphone3.png" />
+    <Content Include="images\spotify\ruido.png" />
+    <Content Include="images\spotify\spotify.svg" />
+    <Content Include="images\spotify\twitter.png" />
     <Content Include="images\uvas.png" />
     <Content Include="images\uvas200.png" />
     <Content Include="Scripts\bootstrap.js" />
@@ -278,6 +293,8 @@
     <Content Include="Views\Html\Projeto.cshtml" />
     <Content Include="Views\Html\Estrutura.cshtml" />
     <Content Include="Views\Html\Link.cshtml" />
+    <Content Include="Views\Spotify\Index.cshtml" />
+    <Content Include="Views\Shared\_SpotifyLayout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
