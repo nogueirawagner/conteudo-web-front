@@ -293,6 +293,11 @@
     <Content Include="Views\Html\Projeto.cshtml" />
     <Content Include="Views\Html\Estrutura.cshtml" />
     <Content Include="Views\Html\Link.cshtml" />
+    <Content Include="Views\Bootstrap\Tabs.cshtml" />
+    <Content Include="Views\Bootstrap\Tooltip.cshtml" />
+    <Content Include="Views\Bootstrap\Alert.cshtml" />
+    <Content Include="Views\Bootstrap\Modal.cshtml" />
+    <Content Include="Views\Bootstrap\Icones.cshtml" />
     <Content Include="Views\Spotify\Index.cshtml" />
     <Content Include="Views\Shared\_SpotifyLayout.cshtml" />
   </ItemGroup>
